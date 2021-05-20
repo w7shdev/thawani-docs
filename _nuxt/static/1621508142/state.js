@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fthawani-docs\u002F_nuxt\u002Fstatic\u002F1621508142",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fthawani-docs\u002F",assetsPath:"\u002Fthawani-docs\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"33c42564"}}}}(null));
